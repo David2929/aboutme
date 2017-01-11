@@ -1,0 +1,38 @@
+body	{
+	padding-top: 75px;
+}
+.bio	{
+	text-align: center;
+	font-size: 12px;
+}
+img.circle	{
+	border-radius: 51%;
+}
+img.photo	{
+	height: 275px;
+	width: 350px;
+	border-image: 5px;
+	padding: 5px;
+}
+h1	{
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+h2	{
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;	
+}
+
+nav	{
+	font-family: 'Raleway', sans-serif;
+}
+/* The following gives color to the website links*/
+span.fa 	{
+	color: #e74c3c;
+}
+body	{
+	background-color:  #E2E5E8;
+}
+*::selection	{
+	background: #5A94E4;
+}
